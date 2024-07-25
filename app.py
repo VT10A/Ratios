@@ -9,7 +9,7 @@ import polars as pl
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import plotly.express as px
-import highcharts_core.chart as hc
+#import highcharts_core.chart as hc
 import streamlit as st
 from streamlit_jupyter import StreamlitPatcher, tqdm
 
