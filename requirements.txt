@@ -1,2 +1,2 @@
 polars
-sklearn
+scikit-learn
