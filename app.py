@@ -113,5 +113,5 @@ st.plotly_chart(fig)
 
 
 
-from nbdev.export import nb_export
-nb_export("Ratio_BV.ipynb", lib_path="./", name="app")
+#from nbdev.export import nb_export
+#nb_export("Ratio_BV.ipynb", lib_path="./", name="app")
